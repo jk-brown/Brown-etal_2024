@@ -1,7 +1,19 @@
-[![DOI](https://zenodo.org/badge/265119113.svg)](https://zenodo.org/badge/latestdoi/265119113)
+<!-- badges: start -->
 
-# metarepo
-Template repository for a single point of access meta-repository to reproduce an experiment
+<!-- badges: end -->
+
+# Brown et al. 2024
+
+**Analyzing the effect of Equlibrium Climate Sensitivity parameter uncertainty on probabilistic temperature projections** 
+
+**Target Journal**: *Climate Dynamics* or *Environmental Research* or *Journal of Climate*
+
+**Proposed Author List**: Joseph K Brown, Kalyn Dorheim, Abigail Snyder, Claudia Tebaldi, Steven Smith, Derek Mu, Ben Bond-Lamberty
+
+**Abstract**:
+With the current pace of global change, understanding the sensitivity of the Earth system to human influence has become increasingly crucial. Equilibrium climate sensitivity (ECS), the long-term global temperature increase for a doubling of atmospheric CO2 concentrations, provides a measure of this susceptibility but is highly uncertain. Sherwood et al. 2020 utilized multiple lines of evidence (process, historical, and paleoclimate) to estimate ECS ranges, providing a basis for the IPCC AR6 assessment which narrowed the reported likely ECS range to 2.5-4.0 °C, with a very likely range of 2-5 °C. The new ranges are a departure from Earth system model (ESM) estimates, which have shown values over 5 °C in some cases. These findings make it clear that we cannot rely solely on ESMs to project future warming, and raises the question: how does ECS uncertainty from different lines of evidence impact probabilistic climate projections under different scenarios? Here we use a simple climate model to explore the sensitivity of probabilistic climate projections to ECS parameter uncertainty derived from different lines of evidence. Through a series of experiments using Matilda, a novel probabilistic projection framework for the simple climate model Hector, we project future warming by propagating ECS uncertainty from probability distributions characterized in Sherwood et al. 2020. These experiments evaluate the influence of sequentially omitting lines of evidence from a combined probability distribution and incorporating new lines of evidence (such as emergent constraints) on global temperature projections using a simple climate model. By investigating the different ECS ranges on probabilistic climate projections, we aim to gain a better understanding of each line of evidence and its significance for enhancing the accuracy of future warming projections.
+
+___
 
 ## Purpose
 A meta-repository creates a single point of access for someone to find all of the components that were used to create a published work for the purpose of reproducibility.  This repository should contain references to all minted data and software as well as house any ancillary code used to transform the source data, create figures for your publication, conduct the experiment, and / or execute the contributing software.
